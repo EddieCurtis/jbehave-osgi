@@ -22,7 +22,7 @@ It is composed by these components:
 * the minimum OSGI version needed is 4.3.
 
  
-## Bulding JBehave for OSGi
+## Building JBehave for OSGi
 
 The JBehave-OSGi components uses different approach to being built.
  
